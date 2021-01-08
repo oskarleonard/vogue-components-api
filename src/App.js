@@ -1,5 +1,5 @@
 import React from "react";
-import { headerHigh } from '../api/mock/article/components/headerHigh';
+import { headerHigh } from './api/mock/article/components/headerHigh';
 import HeaderHigh from './components/article/headerHigh/HeaderHigh';
 import "./styles.css";
 

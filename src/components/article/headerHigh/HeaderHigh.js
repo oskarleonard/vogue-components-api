@@ -17,3 +17,5 @@ HeaderHigh.propTypes = {
         title: PropTypes.string.isRequired,
     })
 };
+
+export default HeaderHigh;
