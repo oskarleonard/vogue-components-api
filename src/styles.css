@@ -2,3 +2,8 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+.appHeader {
+  background-color: beige;
+  height: 50px;
+}
